@@ -2,6 +2,6 @@
 
 The problems of **task 5** have been distributed in different branches, I mention them below:
 
-* marter = **problem1**
+* master = **problem1**
 * **problem2**
 * **problem3**
